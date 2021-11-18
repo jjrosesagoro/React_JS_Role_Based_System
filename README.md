@@ -43,3 +43,14 @@ submitted to any of their ideas.
 • Lists of Most Popular Ideas (+1 for Thumbs Up, -1 for Thumbs Down), Most Viewed 
 Ideas, Latest Ideas and Latest Comments must be made available to all users.
 <br>
+• The University QA Manager needs to be able to download all the data after the final 
+closure date in a CSV file for transfer out of the system. Any uploaded documents 
+need to be downloaded in a ZIP file.
+<br>
+• An administrator is needed to maintain any system data, e.g. closure dates for each 
+academic year, staff details.
+<br>
+• Statistical analysis (e.g. number of ideas per Department) needs to be available.
+<br>
+• The interface must be suitable for all devices (eg mobile phones, tablets, desktops).
+<br>
